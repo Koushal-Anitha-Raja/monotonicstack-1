@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
         #using the resultant array
